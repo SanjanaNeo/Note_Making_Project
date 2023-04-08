@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { ScrollView, StyleSheet, Text, View, Alert } from 'react-native';
-import { useHeaderHeight } from '@react-navigation/stack';
+//import { useHeaderHeight } from '@react-navigation/stack';
+import { useHeaderHeight } from '@react-navigation/elements';
 import colors from '../misc/colors';
 import RoundIconBtn from './RoundIconBtn';
 import AsyncStorage from '@react-native-async-storage/async-storage';
