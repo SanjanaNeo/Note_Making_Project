@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   icon: {
     backgroundColor: colors.PRIMARY,
     padding: 15,
-    borderRadius: 50,
+    borderRadius: 100,
     elevation: 5,
   },
 });
