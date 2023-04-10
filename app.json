@@ -20,11 +20,18 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#ffffff",
+        "package": "com.neosoft.noteapp"
+      },
+      "package": "com.sanjana_roshan.noteProject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "744d2031-aafa-4878-af0e-604d99275c49"
+      }
     }
   }
 }
